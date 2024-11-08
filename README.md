@@ -1,16 +1,39 @@
-## Hi there 👋
+# josh anaba
 
-<!--
-**JoshAnaba/joshanaba** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+**swe chef | frontend engineer**
 
-Here are some ideas to get you started:
+With about **5 years** of experience solving complex engineering problems.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+---
+
+### 🛠 tools + technologies
+
+- **languages**: JavaScript (JS), TypeScript (TS)
+- **frontend frameworks**: Vue.js | Nuxt.js, React.js | Next.js, React Native
+- **styling libraries**: Chakra UI, ShadCN, Tailwind CSS, SCSS
+
+---
+
+### 🌱 interests
+
+- **backend development**
+- **DevOps**
+- **mobile development**
+
+
+### 🌱 hobbies
+
+- **painting**
+- **football**
+
+---
+
+### 📫 reach me
+
+- **Email**: [anabajoshchi@gmail.com](mailto:anabajoshchi@gmail.com)
+- **Twitter**: [@chiinazza](https://x.com/chiinazza)
+- **LinkedIn**: [linkedin.com/in/joshanaba](https://www.linkedin.com/in/joshanaba/)
+
+---
+
+Let’s connect!
