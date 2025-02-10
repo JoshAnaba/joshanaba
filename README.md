@@ -17,7 +17,7 @@ With about **5 years** of experience solving complex engineering problems.
 
 ### 🌱 currently interested in
 
-- **mongodb and php**
+- **mongodb,  php 👀**
 
 ### 🌱 hobbies
 
