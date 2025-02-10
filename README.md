@@ -8,16 +8,16 @@ With about **5 years** of experience solving complex engineering problems.
 
 ### 🛠 tools + technologies
 
-- **languages**: JavaScript (JS), TypeScript (TS)
+- **languages**: tavaScript, typescript
 - **frontend frameworks**: vuejs | nuxtjs, reactjs | nextjs, react native
 - **backend frameworks**: nodejs | express
-- **styling libraries**: Chakra UI, ShadCN, Tailwind CSS, SCSS
+- **styling libraries**: chakra ui, shadcn, tailwind css, scss
 
 ---
 
-### 🌱 currently busy with
+### 🌱 currently interested in
 
-- **mongodb**
+- **mongodb and php**
 
 ### 🌱 hobbies
 
