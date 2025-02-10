@@ -9,22 +9,21 @@ With about **5 years** of experience solving complex engineering problems.
 ### 🛠 tools + technologies
 
 - **languages**: JavaScript (JS), TypeScript (TS)
-- **frontend frameworks**: Vue.js | Nuxt.js, React.js | Next.js, React Native
+- **frontend frameworks**: vuejs | nuxtjs, reactjs | nextjs, react native
+- **backend frameworks**: nodejs | express
 - **styling libraries**: Chakra UI, ShadCN, Tailwind CSS, SCSS
 
 ---
 
-### 🌱 interests
+### 🌱 currently busy with
 
-- **backend development**
-- **DevOps**
-- **mobile development**
-
+- **mongodb**
 
 ### 🌱 hobbies
 
 - **painting**
 - **football**
+- **swimming 👀**
 
 ---
 
