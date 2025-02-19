@@ -2,8 +2,6 @@
 
 **swe chef | frontend engineer**
 
-With about **5 years** of experience solving complex engineering problems.
-
 ---
 
 ### 🛠 tools + technologies
